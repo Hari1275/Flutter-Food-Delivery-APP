@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093614131392",
+    "project_id": "food-seller-app-de043",
+    "storage_bucket": "food-seller-app-de043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093614131392:android:c861905012b539fe8af525",
+        "android_client_info": {
+          "package_name": "com.hari56.food_delivery_product"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093614131392-8bt55sb0vq1c5ot7ill23uir03t5hfpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUizMsAT5TnJ6rQrP26xO71y7JHYrr5rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093614131392-8bt55sb0vq1c5ot7ill23uir03t5hfpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
